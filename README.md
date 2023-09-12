@@ -1,6 +1,4 @@
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/ichumbo/Desinic)
   ![GitHub stars](https://img.shields.io/github/stars/ichumbo/Desinic?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/ichumbo/Desinic?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ichumbo?style=social)](https://twitter.com/intent/follow?screen_name=ichumbo_)
