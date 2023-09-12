@@ -1,54 +1,31 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/desinic)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/desinic?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/desinic?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/SjhiZ_ySGzA?style=social)](https://youtu.be/SjhiZ_ySGzA)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/ichumbo/Desinic)
+  ![GitHub stars](https://img.shields.io/github/stars/ichumbo/Desinic?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/ichumbo/Desinic?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ichumbo?style=social)](https://twitter.com/intent/follow?screen_name=ichumbo_)
 
   <br />
   <br />
 
-  <h2 align="center">Desinic - Agency website</h2>
+  <h2 align="center">Desinic - Agência</h2>
 
-  Desinic is fully responsive agency website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  Desinic é um site de agência totalmente responsivo, <br />responsivo para todos os dispositivos, construído em HTML, CSS e JavaScript.
 
-  <a href="https://codewithsadee.github.io/desinic/"><strong>➥ Live Demo</strong></a>
+  <a href="https://ichumbo.github.io/Desinic/"><strong>➥ Demonstação</strong></a>
 
 </div>
 
 <br />
 
-### Demo Screeshots
+### Demonstração
 
 ![Desinic Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-### Prerequisites
+### Contato
 
-Before you begin, ensure you have met the following requirements:
+Se você quiser entrar em contato comigo, pode entrar em contato comigo em [Twitter](https://www.twitter.com/IanMelw).
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+### Licença
 
-### Run Locally
-
-To run **Desinic** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/desinic.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/desinic.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+Este projeto é **de uso gratuito** e não contém nenhuma licença.
